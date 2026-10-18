@@ -1,0 +1,6 @@
+# Ignore everything
+*
+# But keep directories, otherwise git won't descend into them
+!*/
+# And keep anything with a dot in its name
+!*.*
